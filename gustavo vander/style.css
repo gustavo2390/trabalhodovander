@@ -28,7 +28,7 @@ body {
     padding: 50px;
     /*modificar*/
     border-radius: 35px;
-  
+    box-shadow: 0 0 35px rgb(4, 7, 4);
 
 }
 
@@ -92,4 +92,9 @@ button {
 }
 button:hover{
     opacity: 0.5;
+}
+
+.idioma option {
+background-color: rgb(6, 6, 14);
+color:rgb(135, 180, 180);
 }
